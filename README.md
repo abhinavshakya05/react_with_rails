@@ -2,9 +2,9 @@ React with rails application:
 
 URLS:
 
-/ => homepage
-/posts => posts index page
-/new_post => create new post
+`/` => homepage
+`/posts` => posts index page
+`/new_post` => create new post
 
 Run server:
 - Go to the rails directory
