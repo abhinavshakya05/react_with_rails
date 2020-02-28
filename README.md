@@ -1,24 +1,11 @@
-# README
+React with rails application:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+URLS:
 
-Things you may want to cover:
+/ => homepage
+/posts => posts index page
+/new_post => create new post
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Run server:
+- Go to the rails directory
+- run on the terminal `npm run dev`
